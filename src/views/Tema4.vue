@@ -86,7 +86,7 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
-            iframe(width="1346" height="757" src="https://www.youtube.com/embed/wowJ0kEwFn4" title="Inteligencia emocional, según Daniel Goleman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="1401" height="788" src="https://www.youtube.com/embed/XcehU-LnvJw" title="Inteligencia emocional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
             
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6

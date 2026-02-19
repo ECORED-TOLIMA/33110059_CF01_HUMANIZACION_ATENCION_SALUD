@@ -80,8 +80,8 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
-            iframe(width="1346" height="757" src="https://www.youtube.com/embed/WL8RliNqj2s" title="Contexto Histórico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-            
+            iframe(width="1401" height="788" src="https://www.youtube.com/embed/OvGtOokFbFo" title="Contexto histórico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+    
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")

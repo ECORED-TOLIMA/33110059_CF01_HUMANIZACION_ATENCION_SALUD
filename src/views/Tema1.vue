@@ -10,42 +10,42 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img1.png" alt="Imagen decorativa")
-    p.mb-4 La humanización del ser humano en la atención en salud en Colombia, se sustenta en un sólido marco normativo que reconoce la dignidad humana, el derecho fundamental a la salud y la responsabilidad del Estado y de la sociedad en su garantía. Estas normas orientan la organización del sistema de salud, la calidad de los servicios y las prácticas de atención, promoviendo un enfoque centrado en la persona, la familia y el contexto social.
+    p.mb-5 El ser humano es un ser integral y complejo, que no puede comprenderse únicamente desde lo biológico. Está conformado por las siguientes dimensiones:[
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema1/img2.svg' alt='AvatarTop')
         h5.text-center Física
         p.text-center Se refiere al cuerpo y a su funcionamiento biológico, incluyendo la salud, la enfermedad, el autocuidado y las condiciones que permiten el desarrollo y la supervivencia.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
         h5.text-center Psicológica
         p.text-center Comprende los procesos mentales como el pensamiento, la memoria, el aprendizaje, la percepción y la toma de decisiones, que influyen en la conducta y el bienestar personal.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
         h5.text-center Social
         p.text-center Alude a la capacidad de relacionarse e interactuar con otras personas, participar en grupos y construir vínculos, roles y redes de apoyo dentro de la comunidad.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
         h5.text-center Emocional
         p.text-center Hace referencia al reconocimiento, expresión y manejo de las emociones y sentimientos, fundamentales para el equilibrio personal y la calidad de las relaciones humanas.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop')
         h5.text-center Cultural
         p.text-center Incluye valores, creencias, costumbres, tradiciones y formas de vida que orientan la manera de pensar, actuar y comprender la realidad en un contexto determinado.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema1/img7.svg' alt='AvatarTop')
         h5.text-center Espiritual
         p.text-center Se relaciona con la búsqueda de sentido, propósito y trascendencia en la vida, así como con las creencias y valores que dan significado a la existencia, independientemente de una religión específica.
@@ -61,10 +61,10 @@
           img.img-fluid(src="@/assets/curso/temas/tema1/img8.jpg" alt="Icono 1")
       .col-lg-8.mb-4.mb-lg-0
         .row.justify-content-center.mb-3
-          .col-lg-1.d-none.d-lg-block
+          .col-lg-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
               img.img-fluid(src="@/assets/curso/temas/tema1/img9.svg" alt="Icono 1")
-          .col-lg-11
+          .col-lg-10
             p.mb-0(data-aos="fade-left") Desde una perspectiva humanista, el ser humano es un sujeto con dignidad, consciente de sí mismo, capaz de reflexionar, comunicarse, tomar decisiones y transformar la realidad. Vive en constante interdependencia social, construyendo vínculos, valores y significados a partir de la convivencia, la solidaridad y el respeto mutuo.
         p.mb-4 Además, el ser humano posee la capacidad de experimentar emociones, aprender de la experiencia y adaptarse al cambio, lo que le permite enfrentar desafíos individuales y colectivos. Su comportamiento está influido tanto por factores internos como por condiciones históricas, sociales y culturales que moldean su identidad.
          
@@ -80,16 +80,13 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
-            iframe(width="1401" height="788" src="https://www.youtube.com/embed/2L91WMqw96A" title="Contextualización ser humano y humanización en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-
+            iframe(width="1346" height="757" src="https://www.youtube.com/embed/WL8RliNqj2s" title="Contexto Histórico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  1.2	Componentes del ser humano
-    p Es importante resaltar la importancia del ser humano en el contexto de la atención en salud, reconociendo su condición humana integral. No solamente desde el concepto biológico; es decir, cuando se refiere a la estructura física y orgánica que compone al ser humano, si no, también, entender que los seres humanos se desenvuelven en un estado permanente de reciprocidad con el entorno, interdependencia social y complementariedad.
-    .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
-        p Con las potencialidades y limitaciones, en cada uno de los seres humanos habita y actúa un poder transformador, estrechamente en estado permanente de compasión, creación y construcción individual y social de conocimientos del saber, que se expresa en sentimientos y emociones del amar; de realizaciones y productos, del hacer; de escenarios y visiones de futuro, de utopías, del soñar; y de espiritualidad y creencias, del trascender.
+    p.mb-0 Es importante resaltar la importancia del ser humano en el contexto de la atención en salud, reconociendo su condición humana integral. No solamente desde el concepto biológico; es decir, cuando se refiere a la estructura física y orgánica que compone al ser humano, si no, también, entender que los seres humanos se desenvuelven en un estado permanente de reciprocidad con el entorno, interdependencia social y complementariedad.
     .BMG1.p-4
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10
@@ -189,19 +186,33 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Valores
-    p.mb-4 Para entender lo que tiene que ver con los valores en el ser humano, acceda al siguiente pódcast, un espacio de reflexión donde se analiza al ser humano como un ser biosocial y la manera en que las libertades individuales se construyen y ejercen dentro de la vida en sociedad. Este contenido permite profundizar en la relación entre ética, convivencia y desarrollo personal, ofreciendo elementos para comprender y fortalecer los sistemas de valores que guían las decisiones cotidianas:
-
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-12
+    
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-4.col-8.mb-4.mb-lg-0
         figure(data-aos="zoom-in")
-          .video
-            iframe(width="1401" height="788" src="https://www.youtube.com/embed/2L91WMqw96A" title="Contextualización ser humano y humanización en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-    .row.justify-content-center.mb-4
+          img.img-fluid(src="@/assets/curso/temas/tema1/img32.jpg" alt="Icono 1")
+
+      .col-lg-8
+        p.mb-5 Para entender lo que tiene que ver con los valores en el ser humano, acceda al siguiente pódcast, un espacio de reflexión donde se analiza al ser humano como un ser biosocial y la manera en que las libertades individuales se construyen y ejercen dentro de la vida en sociedad. Este contenido permite profundizar en la relación entre ética, convivencia y desarrollo personal, ofreciendo elementos para comprender y fortalecer los sistemas de valores que guían las decisiones cotidianas:
+        .BMG4.p-4
+          .row.justify-content-center.align-items-center
+            .col-lg-4.col-6.mb-4.mb-lg-0
+              figure(data-aos="zoom-in")
+                img.img-fluid(src="@/assets/curso/temas/tema1/img33.svg" alt="Icono 1")
+            .col-lg-8
+              
+                TarjetaAudio.color-acento-contenido.mb-3(
+                  texto="Pódcast"
+                  :audio="require('@/assets/actividad/audio/Podcast_CF01_33110059_Valores del ser humano.wav')"
+                  @audio-hover="mostrarIndicadorTarjetaAudio = false"
+              )
+
+    .row.justify-content-center.mb-5
       .col-lg-1.d-none.d-lg-block
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img15.svg" alt="Icono 1")
       .col-lg-9
-        p.mb-0(data-aos="fade-left") De igual manera, se pueden entender los valores como un gran sistema, los cuales se agrupan en subsistemas. Al respecto, Echeverría (2003) diferencia 12 subsistemas de valores y su comprensión facilita reconocer la diversidad y especificidad de cada uno de ellos. Hay que tener presente que estos valores han aparecido por el esfuerzo de las personas por conquistarse a sí mismas, encontrando:[
+        p.mb-0(data-aos="fade-left") De igual manera, se pueden entender los valores como un gran sistema, los cuales se agrupan en subsistemas. Al respecto, Echeverría (2003) diferencia 12 subsistemas de valores y su comprensión facilita reconocer la diversidad y especificidad de cada uno de ellos. Hay que tener presente que estos valores han aparecido por el esfuerzo de las personas por conquistarse a sí mismas, encontrando:
 
     .BMG2.px-lg-4.p-4.mb-4
       SlyderB.mb-5(:datos="datosSlyder")
@@ -242,11 +253,11 @@
               p.mb-0 Relación entre la dinámica familiar y el comportamiento de salud.
             li
               i.fas.fa-briefcase-medical
-              p.mb-0 Comprende la condición de salud en términos de la persona, la familia, la relación médico-paciente y el contexto social (McDaniel et al., 1990)
+              p.mb-0 Comprende la condición de salud en términos de la persona, la familia, la relación médico-paciente y el contexto social (McDaniel et al., 1990).
             li
               i.fas.fa-briefcase-medical
               p.mb-0 Permite orientar la atención centrada en la familia de acuerdo con los siguientes niveles:
-          .tarjeta-fblanco.p-4
+          .tarjeta-fblanco.p-4.mb-4
             ul.lista-ul.mb-0
               li(data-aos="fade-right") 
                 i.lista-ul__vineta
@@ -268,11 +279,10 @@
               i.fas.fa-briefcase-medical
               p.mb-0 Permite ver a la familia como un sistema, en el que existe colaboración enfocada en la promoción de salud.
       p.mb-4 Para clarificar un poco el accionar de los diferentes factores, se presenta la siguiente imagen:
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center
       .col-lg-10
         .titulo-sexto.color-primario(data-aos="fade-left")
-          h5 Figura 1.
-          i  Factores del modelo biopsicosocial
+          h5 Figura 1. Factores del modelo biopsicosocial
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.movil(data-aos="fade-left")
         figure

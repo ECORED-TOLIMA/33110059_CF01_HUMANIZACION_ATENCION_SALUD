@@ -2,13 +2,13 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 50%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 21%
+    right: 10%
 
 @keyframes float1
   0%
@@ -92,9 +92,6 @@ figcaption
   background-size: cover
   background-repeat: no-repeat
   background-position: center
-  margin-inline: -3rem !important
-  @media (max-width: $bp-max-sm)
-    margin-inline: -1.5rem !important
 .BMG3
   background: linear-gradient(180deg, #fff, #EEEEFF, #fff)
   background-size: cover
@@ -103,7 +100,19 @@ figcaption
   margin-inline: -3rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+.BMG4
+  background-color: #17428D
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
 
+.tarjeta-audio.color-acento-contenido
+  border-color: #FF9581
+  background-color: #FFF5DF
+.tarjeta-audio
+  border-radius: 5px
+.tarjeta-audio__texto
+  color:black !important
 .tarjeta--BMG4
   background-image: url("../assets/curso/temas/tema3/bgpasos.png")
   background-size: cover
@@ -143,9 +152,12 @@ figcaption
   margin-left: -10px
 
 //Listas
-.lista-ul li, ol.lista-ol li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, li i.lista-ul__vineta
+.lista-ul li, ol.lista-ol li, .lista-ul--color li, ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li, li i.lista-ul__vineta.lista-ol--cuadro__vineta
   display: flex
   align-items: flex-start
+.lista-ol--cuadro__vineta
+    color: #000000
+
 i.fas.fa-briefcase-medical
   color: #FFAE9F
 .lista-ul__vineta
@@ -209,9 +221,12 @@ i.fas.fa-briefcase-medical
 .tarjeta--azul
     background-color: #B6CFE3
 
-.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
-  border: 2px solid #FF9581
-  background-color: #FF9581
+.slyder__btn
+  background-color: #FFCD77
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right, .pasos-b.color-acento-contenido .pasos-b__header__item--active .pasos-b__header__item__dot, .pasos-b__header__btn--right:hover, .pasos-b__header__btn--left:hover
+  border: 2px solid #FFCD77
+  background-color: #FFCD77
 .pasos-b__header__item--before .pasos-b__header__item__dot
     border-color: #ABACFF
     background-color: #ABACFF
@@ -221,3 +236,6 @@ i.fas.fa-briefcase-medical
     background-color: #707070
 .pasos-b__header__item--active .pasos-b__header__item__line-container:before
     background-color: #707070
+
+.bloque-texto-c:after
+  display: none

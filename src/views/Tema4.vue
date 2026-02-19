@@ -18,7 +18,7 @@
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4
         .tarjeta--celeste.color-primario.p-2
-          p.mb-0 A continuación, la explicación de ambos procesos:
+          p.text-center.mb-0 A continuación, la explicación de ambos procesos:
     
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -66,7 +66,7 @@
               h3.mb-1 Respuestas emocionales
               p Diversos investigadores probaron las respuestas emocionales en cientos de sujetos y luego crearon mapas que identifican ubicaciones en el cuerpo donde las emociones causan cambios físicos.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=cZP_I6NkQb4 ')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=cZP_I6NkQb4')" target="_blank" type="application/pdf")
                 span Abrir video
                 i.fas.fa-file-download
 
@@ -86,8 +86,8 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
-            iframe(width="1401" height="788" src="https://www.youtube.com/embed/2L91WMqw96A" title="Contextualización ser humano y humanización en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-
+            iframe(width="1346" height="757" src="https://www.youtube.com/embed/wowJ0kEwFn4" title="Inteligencia emocional, según Daniel Goleman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6
         p.mb-0 Las habilidades que ayudan a desarrollar las aptitudes personales y sociales son:
@@ -116,10 +116,10 @@
           img.img-fluid(src="@/assets/curso/temas/tema4/img11.png" alt="Icono 1")
       .col-lg-9.mb-4.mb-lg-0
         .row.justify-content-center.mb-3
-          .col-lg-1.d-none.d-lg-block
+          .col-lg-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
               img.img-fluid(src="@/assets/curso/temas/tema4/img12.svg" alt="Icono 1")
-          .col-lg-11
+          .col-lg-10
             p.mb-0(data-aos="fade-left") Es fundamental fortalecer las habilidades sociales, entre ellas la comprensión de la importancia de la comunicación en la atención en salud. El conocimiento de los elementos de la comunicación, los medios, las barreras y las habilidades comunicativas, favorece el desarrollo de una comunicación asertiva y efectiva por parte del talento humano en salud.
         .cajon.color-secundario.p-4.mb-4
           p.mb-0(data-aos="fade-left") La comunicación depende en gran medida de la calidad de la relación interpersonal y va más allá del lenguaje oral o de la simple transmisión de información. Incluye aspectos como el modo de vestir, los gestos, las expresiones faciales, el tono de voz e incluso el silencio, los cuales permiten expresar emociones como agrado, desagrado, alegría o tristeza. En este sentido, la comunicación integra el conocimiento del comportamiento humano para comprender de manera integral el acto comunicativo.
@@ -159,10 +159,14 @@
         p.mb-0 En el área de la salud, brindar una atención humanizada parte desde la actitud y aptitud del personal de salud-paciente y familia.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
-        .tarjeta--celeste.color-primario.p-2
+        .bloque-texto-c.tarjeta--celeste.p-4
           i.fas.fa-quote-left
-          h5.mb-0 No importa cuán sofisticada sea la tecnología de salud recibida, la salud se alivia con tres simples elementos humanos: compasión, contacto y conversación. – Daniel Patrick Sulmasy
-          i.fas.fa-quote-right
+          p.text-bold.ms-2.mb-0 No importa cuán sofisticada sea la tecnología de salud recibida, la salud se alivia con tres simples elementos humanos: compasión, contacto y conversación. – Daniel Patrick Sulmasy
+          br
+          span - Daniel Patrick Sulmasy
+          .d-flex.justify-content-end.align-items-center(style="margin-top:-35px")
+              i.fas.fa-quote-right
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
         p.mb-0 Es importante conocer las habilidades y barreras en la comunicación efectiva. Por consiguiente, se detallan en primera instancia las habilidades:
@@ -222,63 +226,63 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
-        p.mb-0 Y como segunda instancia, se relacionan de igual o mayor importancia, las barrares:[
+        p.mb-0 Y como segunda instancia, se relacionan de igual o mayor importancia, las barrares:
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img22.svg' alt='AvatarTop')
         h5.text-center Filtración
-        p.text-center Hace referencia a la manipulación de la información con la finalidad de que ésta sea vista de manera favorable por el receptor.
+        p.text-center Hace referencia a la manipulación de la información con la finalidad de que esta sea vista de manera favorable por el receptor.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img23.svg' alt='AvatarTop')
         h5.text-center Percepción selectiva
         p.text-center Surge cuando los receptores, durante el proceso de comunicación, reciben el mensaje de manera selectiva y lo decodifican.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img24.svg' alt='AvatarTop')
         h5.text-center Defensa
         p.text-center Hace referencia a la acción-reacción; el sentimiento de amenaza hacia el individuo produce un resultado.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img25.svg' alt='AvatarTop')
         h5.text-center Lenguaje
         p.text-center El significado de las palabras no está en la palabra, está en el ser mismo (de acuerdo con: la edad, la educación y los antecedentes culturales).
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img26.svg' alt='AvatarTop')
         h5.text-center Deformación
         p.text-center Es un problema semántico influenciado por la forma de pensar o la crianza.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img27.svg' alt='AvatarTop')
         h5.text-center Sobrecarga
         p.text-center Tiene que ver con recibir demasiada información.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img28.svg' alt='AvatarTop')
         h5.text-center Sincronización
         p.text-center Coordinación entre el tiempo y la información.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img29.svg' alt='AvatarTop')
         h5.text-center Falta de aceptación
         p.text-center Negación.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-6
             img(src='@/assets/curso/temas/tema4/img30.svg' alt='AvatarTop')
         h5.text-center Cortocircuito
-        p.text-centerOcurre cuando se salta algún nivel estructural de la organización.
+        p.text-centerOcurre Cuando se salta algún nivel estructural de la organización.
 
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
@@ -295,7 +299,7 @@
               h3.mb-1 Hacia una comunicación efectiva y humanista en ámbitos de salud
               p Ingresando al siguiente artículo, le ayudará en la reflexión, reconociendo algunas situaciones y estrategias de uso práctico en el desempeño profesional o campo de acción.
             .col-sm-auto
-              a.boton.color-acento-botones(:href="('/downloads/Hacia_una_comunicacion_efectiva.pdf')" target="_blank" type="application/pdf")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Hacia_una_comunicacion_efectiva.pdf')" target="_blank" type="application/pdf")
                 span Descargar
                 i.fas.fa-file-download
       

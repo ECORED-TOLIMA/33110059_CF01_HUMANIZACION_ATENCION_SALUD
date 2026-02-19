@@ -50,7 +50,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Lineamientos normativos ser humano en Colombia',
+        titulo: 'Lineamientos normativos del ser humano en Colombia',
         desarrolloContenidos: true,
       },
       {

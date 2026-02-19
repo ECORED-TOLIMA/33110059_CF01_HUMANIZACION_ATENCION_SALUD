@@ -8,14 +8,14 @@
       h1 Humanización en salud
     
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-3.col-6.mb-4.mb-lg-4
+      .col-lg-4.col-6.mb-4.mb-lg-4
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema3/img1.jpg" alt="Icono 1")
-      .col-lg-9.mb-0.mb-lg-0
+      .col-lg-8.mb-0.mb-lg-0
         .cajon.color-secundario.p-4.mb-4
           p.mb-0(data-aos="fade-left")  En el presente tema se aborda la humanización desde la visión de autores como José Bermejo, Angelo Brusco, Regrado, Herranz y Torras Raventos. Aunque, la humanización es un término que emerge de temas como el ser humano, su entorno, el trato, las relaciones humanas, entre otros aspectos, se puede afirmar que no hay un concepto único, cierto y obvio de humanización; por el contrario, es un concepto polisémico, amplio, sencillo y complejo a la vez, dado que puede incorporar diversos ámbitos o dimensiones del ser humano.
-        .row.justify-content-center
-          .col-lg-1.d-none.d-lg-block
+        .row.justify-content-center.p-2
+          .col-lg-1.p-0.d-none.d-lg-block
             figure(data-aos="zoom-in")
               img.img-fluid(src="@/assets/curso/temas/tema3/img2.svg" alt="Icono 1")
           .col-lg-11
@@ -25,7 +25,7 @@
       h5 Definiciones
     p.mb-4 De las múltiples definiciones de “humanización” se rescatan las siguientes:
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-12.movil.mb-4
         .tarjeta.tarjeta--BG04.p-4
           figure.mb-4
@@ -85,7 +85,7 @@
             p.mt-3.px-4 “Humanizar es una cuestión ética, con los valores, busca el bien de la persona, impregna las relaciones con valores y actitudes genuinamente humanos”. 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        p.mb-0 En cuanto a la definición de la humanización en salud, a continuación, se enuncian los aspectos más relevantes:[
+        p.mb-0 En cuanto a la definición de la humanización en salud, a continuación, se enuncian los aspectos más relevantes:
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-8.order-2.order-lg-1
@@ -116,7 +116,7 @@
         .col-lg-8.order-2.order-lg-1
           p La humanización distingue las condiciones y el sentido del ser humano de forma integral con el entorno, se impregna de valores y actitudes genuinamente humanos.
 
-        .col-lg-4.col-6.mb-4.mb-lg-4.order-1.order-lg-2
+        .col-lg-4.col-12.mb-4.mb-lg-4.order-1.order-lg-2
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema3/img7.jpg" alt="Icono 1")
       .row(titulo="Bermejo (2013, pp. 3-12)")
@@ -129,14 +129,14 @@
               i.lista-ul__vineta
               | Establece un compromiso ético para el goce efectivo del derecho, en proteger la vida y en reconocer la dignidad de todo ser humano con sus dificultades e inclusión en la vida social.
 
-        .col-lg-4.col-6.mb-4.mb-lg-4.order-1.order-lg-2
+        .col-lg-4.col-12.mb-4.mb-lg-4.order-1.order-lg-2
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema3/img8.jpg" alt="Icono 1")
       .row(titulo="Confederación Médica Latinoamericana y del Caribe & Organización Médica Colegial de España (2016, p. 18)")
         .col-lg-8.order-2.order-lg-1
           p Se fundamenta en la relación interpersonal que conlleva a la personalización, al respeto, al amor, al altruismo, compasión, a la empatía, a la calidez.
 
-        .col-lg-4.col-6.mb-4.mb-lg-4.order-1.order-lg-2
+        .col-lg-4.col-12.mb-4.mb-lg-4.order-1.order-lg-2
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema3/img9.jpg" alt="Icono 1")
       .row(titulo="Raventós (1985, p. 12)")
@@ -155,7 +155,7 @@
               i.lista-ul__vineta
               | Es necesario que los hospitales sean más humanos, exista un mayor respeto a la dignidad humana; por lo tanto, se requiere formación del personal de salud, en cuanto a la organización de los servicios para la atención, información al ser humano, sujeto de cuidado sobre su enfermedad y tratamiento específico; así como, preparación psicológicamente a la muerte.
 
-        .col-lg-4.col-6.mb-4.mb-lg-4.order-1.order-lg-2
+        .col-lg-4.col-12.mb-4.mb-lg-4.order-1.order-lg-2
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema3/img10.jpg" alt="Icono 1")
 
@@ -201,49 +201,49 @@
         .col-lg-10
           ol.lista-ol--cuadro
             li
-            .lista-ol--cuadro__vineta
-              span 1
-            | Prevalencia del bien particular.
+              .lista-ol--cuadro__vineta
+                span 1
+              | Prevalencia del bien particular.
             li
-            .lista-ol--cuadro__vineta
-              span 2
-            | Despersonalización, entendida como una situación en ausencia de relaciones interpersonales.
+              .lista-ol--cuadro__vineta
+                span 2
+              | Despersonalización, entendida como una situación en ausencia de relaciones interpersonales.
             li
-            .lista-ol--cuadro__vineta
-              span 3
-            | Prevalencia del proceso administrativo sobre la persona.
+              .lista-ol--cuadro__vineta
+                span 3
+              | Prevalencia del proceso administrativo sobre la persona.
             li
-            .lista-ol--cuadro__vineta
-              span 4
-            | Falta de confianza entre las personas de apropiación institucional, fragmentación y desarticulación entre agentes.
+              .lista-ol--cuadro__vineta
+                span 4
+              | Falta de confianza entre las personas de apropiación institucional, fragmentación y desarticulación entre agentes.
             li
-            .lista-ol--cuadro__vineta
-              span 5
-            | Condiciones laborales inadecuadas del personal de salud.
+              .lista-ol--cuadro__vineta
+                span 5
+              | Condiciones laborales inadecuadas del personal de salud.
             li
-            .lista-ol--cuadro__vineta
-              span 6
-            | Dificultad en la participación de las personas en su manejo terapéutico.
+              .lista-ol--cuadro__vineta
+                span 6
+              | Dificultad en la participación de las personas en su manejo terapéutico.
             li
-            .lista-ol--cuadro__vineta
-              span 7
-            | El uso inapropiado de la tecnología puede empobrecer la relación interpersonal.
+              .lista-ol--cuadro__vineta
+                span 7
+              | El uso inapropiado de la tecnología puede empobrecer la relación interpersonal.
             li
-            .lista-ol--cuadro__vineta
-              span 8
-            | Deficiencias en el entorno e infraestructura, relacionadas con confort, calidez e intimidad de la persona
+              .lista-ol--cuadro__vineta
+                span 8
+              | Deficiencias en el entorno e infraestructura, relacionadas con confort, calidez e intimidad de la persona.
             li
-            .lista-ol--cuadro__vineta
-              span 9
-            | La administración organizacional se limita en diversos casos a los intereses políticos, dejando de lado las necesidades de las personas.
+              .lista-ol--cuadro__vineta
+                span 9
+              | La administración organizacional se limita en diversos casos a los intereses políticos, dejando de lado las necesidades de las personas.
             li
-            .lista-ol--cuadro__vineta
-              span 10
-            | La gestión en salud está orientada a cumplir procesos relacionados con aspectos financieros y no centrada en la salud de la persona.
+              .lista-ol--cuadro__vineta
+                span 10
+              | La gestión en salud está orientada a cumplir procesos relacionados con aspectos financieros y no centrada en la salud de la persona.
             li
-            .lista-ol--cuadro__vineta
-              span 11
-            | Los servicios de salud están reducidos al utilitarismo y a las reglas del mercado.
+              .lista-ol--cuadro__vineta
+                span 11
+              | Los servicios de salud están reducidos al utilitarismo y a las reglas del mercado.
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Componentes
@@ -308,7 +308,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
-        p.mb-0 Cada persona e institución desde lo individual o colectivo, puede desarrollar el abordaje conceptual de la humanización de la atención, dando prelación a aquellas características que considera más relevantes. Para ello, se puede abordar la humanización desde uno o varios enfoques. En el sector salud, como base, se presentan los siguientes:[
+        p.mb-0 Cada persona e institución desde lo individual o colectivo, puede desarrollar el abordaje conceptual de la humanización de la atención, dando prelación a aquellas características que considera más relevantes. Para ello, se puede abordar la humanización desde uno o varios enfoques. En el sector salud, como base, se presentan los siguientes:
     
     .tarjeta--BMG4.p-5
       .tarjeta.tarjeta--gris.p-4
@@ -377,22 +377,22 @@
       .col-lg-10
         ol.lista-ol--cuadro
           li
-          .lista-ol--cuadro__vineta
-            span 1
-          | Acceder y analizar el video relacionado.
+            .lista-ol--cuadro__vineta
+              span 1
+            | Acceder y analizar el video relacionado.
           li
-          .lista-ol--cuadro__vineta
-            span 2
-          | Durante el video se realizarán pausas para responder preguntas orientadoras. Se sugiere escribir las respuestas de acuerdo con el sentir y el pensar personal; no existen respuestas correctas o incorrectas, ya que se trata de una construcción individual. Posteriormente, es importante guardar las respuestas en un documento en el computador.
+            .lista-ol--cuadro__vineta
+              span 2
+            | Durante el video se realizarán pausas para responder preguntas orientadoras. Se sugiere escribir las respuestas de acuerdo con el sentir y el pensar personal; no existen respuestas correctas o incorrectas, ya que se trata de una construcción individual. Posteriormente, es importante guardar las respuestas en un documento en el computador.
           li
-          .lista-ol--cuadro__vineta
-            span 3
-          | Al finalizar el video, redactar los conceptos construidos y guardarlos para repasar y reflexionar sobre las apreciaciones personales.
+            .lista-ol--cuadro__vineta
+              span 3
+            | Al finalizar el video, redactar los conceptos construidos y guardarlos para repasar y reflexionar sobre las apreciaciones personales.
     .row.justify-content-center.align-items-center
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
-            iframe(width="1401" height="788" src="https://www.youtube.com/embed/2L91WMqw96A" title="Contextualización ser humano y humanización en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="1401" height="788" src="https://www.youtube.com/embed/H_ReAjWUp_E" title="Contextualización ser humano y humanización en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 
 </template>
 

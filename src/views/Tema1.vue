@@ -10,7 +10,7 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img1.png" alt="Imagen decorativa")
-    p.mb-5 El ser humano es un ser integral y complejo, que no puede comprenderse únicamente desde lo biológico. Está conformado por las siguientes dimensiones:[
+    p.mb-5(data-aos="fade-left") El ser humano es un ser integral y complejo, que no puede comprenderse únicamente desde lo biológico. Está conformado por las siguientes dimensiones:[
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
@@ -64,18 +64,18 @@
           .col-lg-2.d-none.d-lg-block
             figure(data-aos="zoom-in")
               img.img-fluid(src="@/assets/curso/temas/tema1/img9.svg" alt="Icono 1")
-          .col-lg-10
-            p.mb-0(data-aos="fade-left") Desde una perspectiva humanista, el ser humano es un sujeto con dignidad, consciente de sí mismo, capaz de reflexionar, comunicarse, tomar decisiones y transformar la realidad. Vive en constante interdependencia social, construyendo vínculos, valores y significados a partir de la convivencia, la solidaridad y el respeto mutuo.
+          .col-lg-10(data-aos="fade-left")
+            p.mb-0 Desde una perspectiva humanista, el ser humano es un sujeto con dignidad, consciente de sí mismo, capaz de reflexionar, comunicarse, tomar decisiones y transformar la realidad. Vive en constante interdependencia social, construyendo vínculos, valores y significados a partir de la convivencia, la solidaridad y el respeto mutuo.
         p.mb-4 Además, el ser humano posee la capacidad de experimentar emociones, aprender de la experiencia y adaptarse al cambio, lo que le permite enfrentar desafíos individuales y colectivos. Su comportamiento está influido tanto por factores internos como por condiciones históricas, sociales y culturales que moldean su identidad.
          
-        .cajon.color-secundario.p-4
+        .cajon.color-secundario.p-4(data-aos="fade-left")
           p.mb-0(data-aos="fade-left")  En el ámbito de la salud, reconocer al ser humano como un todo integral, implica comprender que cada persona es única, con necesidades, expectativas y contextos propios. Esta visión es la base de la humanización en salud, ya que orienta prácticas centradas en la persona, promueve relaciones empáticas y fortalece una atención respetuosa, ética y comprometida con la vida y el bienestar. 
 
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  1.1	Contexto histórico humanismo
-    p.mb-4 Para conocer un poco sobre el humanismo, es preciso ingresar al siguiente video, el cual contextualiza sobre este accionar:
+    p.mb-4(data-aos="fade-left") Para conocer un poco sobre el humanismo, es preciso ingresar al siguiente video, el cual contextualiza sobre este accionar:
     .row.justify-content-center.align-items-center
       .col-lg-12
         figure(data-aos="zoom-in")
@@ -86,16 +86,16 @@
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  1.2	Componentes del ser humano
-    p.mb-0 Es importante resaltar la importancia del ser humano en el contexto de la atención en salud, reconociendo su condición humana integral. No solamente desde el concepto biológico; es decir, cuando se refiere a la estructura física y orgánica que compone al ser humano, si no, también, entender que los seres humanos se desenvuelven en un estado permanente de reciprocidad con el entorno, interdependencia social y complementariedad.
+    p.mb-0(data-aos="fade-left") Es importante resaltar la importancia del ser humano en el contexto de la atención en salud, reconociendo su condición humana integral. No solamente desde el concepto biológico; es decir, cuando se refiere a la estructura física y orgánica que compone al ser humano, si no, también, entender que los seres humanos se desenvuelven en un estado permanente de reciprocidad con el entorno, interdependencia social y complementariedad.
     .BMG1.p-4
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-10
+        .col-lg-10(data-aos="fade-left")
           p Con las potencialidades y limitaciones, en cada uno de los seres humanos habita y actúa un poder transformador, estrechamente en estado permanente de compasión, creación y construcción individual y social de conocimientos del saber, que se expresa en sentimientos y emociones del amar; de realizaciones y productos, del hacer; de escenarios y visiones de futuro, de utopías, del soñar; y de espiritualidad y creencias, del trascender.
       .row.justify-content-center.align-items-center
         .col-lg-4
           figure(data-aos="zoom-in")
             img.img-fluid(src="@/assets/curso/temas/tema1/img10.png" alt="Icono 1")
-        .col-lg-6.mb-4.mb-lg-0
+        .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
           .bloque-texto-b.color-primario.p-4.mb-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
@@ -112,7 +112,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Necesidades
-    p.mb-4 Las condiciones del ser humano están mediadas por sus necesidades básicas. El recién nacido no tiene necesariamente las mismas necesidades básicas que el adolescente o el anciano; pero, independientemente del grupo de edad de la persona, están presentes en mayor o menor medida.
+    p.mb-4(data-aos="fade-left") Las condiciones del ser humano están mediadas por sus necesidades básicas. El recién nacido no tiene necesariamente las mismas necesidades básicas que el adolescente o el anciano; pero, independientemente del grupo de edad de la persona, están presentes en mayor o menor medida.
     .row.justify-content-center.mb-4
       .col-lg-1.d-none.d-lg-block
         figure(data-aos="zoom-in")
@@ -120,7 +120,7 @@
       .col-lg-9
         p.mb-0(data-aos="fade-left") Maslow, como uno de los fundadores de las psicologías humanista y transpersonal, centra al ser humano en la autorrealización, entendida como culminación de la tendencia al crecimiento. La define como la obtención de la satisfacción de necesidades progresivamente superiores, junto a esto, la satisfacción de la necesidad de estructurar el mundo, a partir de sus propios análisis y valores. Por lo tanto, la personalidad de cada uno se basa en su naturaleza interna, biológica e innata, en parte individual, única y en común a otros individuos. Entre los elementos comunes están las necesidades naturales, explicadas por medio de la siguiente pirámide, la cual se basa en la teoría de Abraham Maslow:
     .row.justify-content-center.align-items-center.mb-3
-      .col-lg-10.desktop
+      .col-lg-10.desktop(data-aos="fade-left")
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
@@ -141,7 +141,7 @@
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img13_1.svg" alt="Icono 1")
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-left")
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 El llegar al nivel más alto, es un proceso que no se acaba, el ser humano está en evolución constante y al llegar al máximo nivel, lo motiva a la necesidad de desarrollar la capacidad de escoger, decidir y crear opciones más avanzadas.
     .titulo.mb-4(data-aos="fade-left")
@@ -155,7 +155,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Desde la teoría de las capacidades humanas de Amartya Sen, creador e impulsor del enfoque de las capacidades, quien las define como “las diversas cosas que una persona puede valorar hacer o ser” (Sen, 2000: 99, citado por Cejudo, 2006)). La capacidad es principalmente un reflejo de la libertad para alcanzar funcionamientos valiosos. En cierto modo, las capacidades se pueden entender como las circunstancias propicias en las que ciertas habilidades predisponen a lo que se quiere. Las capacidades de una persona se ven reflejadas en los funcionamientos que son su sentido. A su vez, constituyen los logros efectivos que una persona puede alcanzar y que se expresan en las diversas actividades o «estados» que puede realizar libremente.
 
-    p.mb-4 El PNUD (Programa de las Naciones Unidas para el Desarrollo), establece como objetivo básico del desarrollo humano “aumentar las libertades humanas en un proceso que puede expandir las capacidades personales toda vez que amplía las alternativas disponibles para que la gente viva una vida plena y creativa” (2004). Además, según dicho programa, el ser humano dispone de una gama infinita de capacidades que deben ser valoradas universalmente. Así, el PNUD en su informe sobre desarrollo humano, establece 4 capacidades como las más importantes del ser, estas son:
+    p.mb-4(data-aos="fade-left") El PNUD (Programa de las Naciones Unidas para el Desarrollo), establece como objetivo básico del desarrollo humano “aumentar las libertades humanas en un proceso que puede expandir las capacidades personales toda vez que amplía las alternativas disponibles para que la gente viva una vida plena y creativa” (2004). Además, según dicho programa, el ser humano dispone de una gama infinita de capacidades que deben ser valoradas universalmente. Así, el PNUD en su informe sobre desarrollo humano, establece 4 capacidades como las más importantes del ser, estas son:
 
     .row.mb-5
       .col-lg.col-md-6.mb-lg-0.mb-4(data-aos="fade-right")
@@ -193,7 +193,7 @@
           img.img-fluid(src="@/assets/curso/temas/tema1/img32.jpg" alt="Icono 1")
 
       .col-lg-8
-        p.mb-5 Para entender lo que tiene que ver con los valores en el ser humano, acceda al siguiente pódcast, un espacio de reflexión donde se analiza al ser humano como un ser biosocial y la manera en que las libertades individuales se construyen y ejercen dentro de la vida en sociedad. Este contenido permite profundizar en la relación entre ética, convivencia y desarrollo personal, ofreciendo elementos para comprender y fortalecer los sistemas de valores que guían las decisiones cotidianas:
+        p.mb-5(data-aos="fade-left") Para entender lo que tiene que ver con los valores en el ser humano, acceda al siguiente pódcast, un espacio de reflexión donde se analiza al ser humano como un ser biosocial y la manera en que las libertades individuales se construyen y ejercen dentro de la vida en sociedad. Este contenido permite profundizar en la relación entre ética, convivencia y desarrollo personal, ofreciendo elementos para comprender y fortalecer los sistemas de valores que guían las decisiones cotidianas:
         .BMG4.p-4
           .row.justify-content-center.align-items-center
             .col-lg-4.col-6.mb-4.mb-lg-0
@@ -229,7 +229,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9.mb-4.mb-lg-0
-        p El modelo biopsicosocial, propuesto entre las décadas de 1950 y 1960 por George Engel, representó un avance significativo al explicar que los problemas de salud surgen de la interacción de factores biológicos, psicológicos y sociales. Este enfoque plantea que el estado emocional y el entorno social influyen en los procesos biológicos del individuo y, a su vez, estos pueden afectar su comportamiento y sus relaciones sociales, ofreciendo una visión más completa para la atención en salud.
+        p(data-aos="fade-left") El modelo biopsicosocial, propuesto entre las décadas de 1950 y 1960 por George Engel, representó un avance significativo al explicar que los problemas de salud surgen de la interacción de factores biológicos, psicológicos y sociales. Este enfoque plantea que el estado emocional y el entorno social influyen en los procesos biológicos del individuo y, a su vez, estos pueden afectar su comportamiento y sus relaciones sociales, ofreciendo una visión más completa para la atención en salud.
         .cajon.color-primario.p-4.mb-4
           p.mb-0(data-aos="fade-left")  Este modelo enfatiza una visión integral de los factores relacionados con la salud, la enfermedad y la atención. Además, comienza con las teorías / terapias familiares orientadas a la biopsicosocial temprana, luego con la atención médica centrada en la familia y termina con la creación de la terapia médica familiar.
       .col-lg-3.col-6
@@ -282,7 +282,8 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .titulo-sexto.color-primario(data-aos="fade-left")
-          h5 Figura 1. Factores del modelo biopsicosocial
+          h5 Figura 1. 
+          span Factores del modelo biopsicosocial
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.movil(data-aos="fade-left")
         figure

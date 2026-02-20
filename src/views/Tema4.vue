@@ -82,7 +82,7 @@
 
         p.mb-0 Tradicionalmente se ha reconocido la importancia del control de las acciones, asociando la inteligencia con la capacidad lógica, el razonamiento lingüístico o lógico-matemático y vinculándola, en muchos casos, con el éxito personal y profesional. La inteligencia, entendida como la capacidad de relacionar pensamientos para generar nuevos aprendizajes, se construye a partir de la herencia y del entorno o contexto cultural. No obstante, en los últimos años ha cobrado relevancia el manejo de las emociones, reconociéndose como otro tipo de inteligencia: la inteligencia emocional, la cual enfatiza la capacidad de comprenderse y regularse a sí mismo, así como de relacionarse de manera adecuada con los demás.
     p.mb-4 Para complementar el tema relacionado con las emociones, se invita a que ingrese al siguiente video que trata sobre la inteligencia emocional según Daniel Goleman:
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
         figure(data-aos="zoom-in")
           .video
@@ -96,7 +96,7 @@
       .col-lg-10
         .titulo-sexto.color-primario(data-aos="fade-left")
           h5 Figura 2.
-          i  Inteligencia emocional
+          span Inteligencia emocional
     .row.justify-content-center.align-items-center
       .col-lg-10.movil(data-aos="fade-left")
         figure
@@ -145,7 +145,7 @@
       .col-lg-10
         .titulo-sexto.color-primario(data-aos="fade-left")
           h5 Figura 3.
-          i  Elementos de la comunicación
+          span Elementos de la comunicación
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10.movil(data-aos="fade-left")
         figure

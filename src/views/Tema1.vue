@@ -10,7 +10,7 @@
       .col-lg-12
         figure(data-aos="zoom-in")
           img.img-fluid(src="@/assets/curso/temas/tema1/img1.png" alt="Imagen decorativa")
-    p.mb-5(data-aos="fade-left") El ser humano es un ser integral y complejo, que no puede comprenderse únicamente desde lo biológico. Está conformado por las siguientes dimensiones:[
+    p.mb-5(data-aos="fade-left") El ser humano es un ser integral y complejo, que no puede comprenderse únicamente desde lo biológico. Está conformado por las siguientes dimensiones:
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4
@@ -267,10 +267,10 @@
                 | Información y asesoramiento involucran a las familias de manera colaborativa.
               li(data-aos="fade-right") 
                 i.lista-ul__vineta
-                | Sentimiento y apoyo aborda las necesidades emocionales y de salud de la familia.
+                | Sentimiento y apoyo abordan las necesidades emocionales y de salud de la familia.
               li(data-aos="fade-right") 
                 i.lista-ul__vineta
-                | Evaluación sistémica e intervenciones planificadas permite ayudar a la familia a desarrollar formas alternativas.
+                | Evaluación sistémica e intervenciones planificadas permiten ayudar a la familia a desarrollar formas alternativas.
               li(data-aos="fade-right") 
                 i.lista-ul__vineta
                 | Terapia familiar.

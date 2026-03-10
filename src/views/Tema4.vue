@@ -107,7 +107,7 @@
 
     
     separador
-    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2  4.2	Comunicación asertiva y efectiva
 
     .row.justify-content-center.align-items-center.mb-4
@@ -226,7 +226,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
-        p.mb-0 Y como segunda instancia, se relacionan de igual o mayor importancia, las barrares:
+        p.mb-0 Y como segunda instancia, se relacionan de igual o mayor importancia, las barreras:
     
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-primario.p-4

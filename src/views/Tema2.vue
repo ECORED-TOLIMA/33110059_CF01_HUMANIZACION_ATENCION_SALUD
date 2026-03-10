@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Lineamientos normativos ser humano en Colombia
+      h1 Lineamientos normativos del ser humano en Colombia
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-12
         figure(data-aos="zoom-in")

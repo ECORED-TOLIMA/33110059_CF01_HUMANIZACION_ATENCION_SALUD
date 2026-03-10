@@ -109,7 +109,7 @@
     .titulo.mb-4(data-aos="fade-left")
       img(src='@/assets/curso/icon.svg', alt='Imagen decorativa')
       h5 Características
-    p.mb-4 Las características necesarias para abordar la humanización son tan diversas y variadas como lo son las del ser humano. Sin embargo, a continuación, se rescatan algunas cualidades necesarias para entender la humanización desde acciones cotidianas y para humanizar el sistema de salud, basadas en los diferentes expertos en el área:[
+    p.mb-4 Las características necesarias para abordar la humanización son tan diversas y variadas como lo son las del ser humano. Sin embargo, a continuación, se rescatan algunas cualidades necesarias para entender la humanización desde acciones cotidianas y para humanizar el sistema de salud, basadas en los diferentes expertos en el área:
     
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul mb-4")
       .row(titulo="Monteiro (2008, p. 9)")
